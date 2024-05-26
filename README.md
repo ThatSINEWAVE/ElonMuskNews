@@ -6,6 +6,8 @@ Welcome to ElonMuskNews, a simple web application that fetches and displays news
 ElonMuskNews provides a user-friendly interface to keep up with the latest news about Elon Musk.
 The application fetches news data from the Elon Musk API and presents it in a clean and organized manner.
 
+![ElonMuskNews](https://github.com/ThatSINEWAVE/ElonMuskNews/assets/133239148/9aee9ea5-5ace-4ef1-a247-5ccc41db7a1a)
+
 </div>
 
 ## Features
